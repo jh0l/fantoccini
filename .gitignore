@@ -1,3 +1,7 @@
 target/
 **/*.rs.bk
 Cargo.lock
+chromedriver.log
+geckodriver.log
+.DS_Store
+.idea/
